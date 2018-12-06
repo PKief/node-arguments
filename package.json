@@ -1,0 +1,17 @@
+{
+  "name": "node-cli-arguments",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "start": "node script --prod",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Philipp Kief",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^10.12.12"
+  },
+  "devDependencies": {},
+  "description": "Small project that demonstrates how to use arguments in a Node.js script."
+}
